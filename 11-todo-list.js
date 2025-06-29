@@ -12,7 +12,7 @@ function addTodo() {
 
 
 
-const todoList2 = ['make dinner', 'wash dishes'];
+const todoList2 = [];
 
 renderTodoList();
 
